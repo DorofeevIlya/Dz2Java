@@ -1,0 +1,50 @@
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 4<=>8
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 3<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 8<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 9<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>8
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 3<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 8<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 9<=>10
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>4
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 3<=>8
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>8
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>8
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 3<=>4
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>4
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>8
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 2<=>3
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>4
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>3
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>2
+θών. 20, 2023 10:43:53 PM Dz.z2 bobbleSortArray
+INFO: 1<=>2
